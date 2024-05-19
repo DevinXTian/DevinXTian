@@ -19,7 +19,7 @@ _President (Sept 2023 - Present)_
 
 ## ⌨️ Projects
 **Predicting Adoption Success**
-- Identify factors that contribute to adoption success and assist animal shelters in improving adoption rates and reducing euthanasia rates (Around 530,000 cats are euthanized each year ~ ASPCA)
+- Determined factors that contribute to adoption success and assist animal shelters in improving adoption rates and reducing euthanasia rates (Around 530,000 cats are euthanized each year ~ ASPCA)
 
 **Recipe Recommendation System**
 - Created a recipe recommendation system using Natural Language Processing such as Word2Vec and TF-IDF and tested the accuracy of the recommendation
