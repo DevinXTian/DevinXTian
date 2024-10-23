@@ -1,6 +1,6 @@
 # Devin Tian 👋
 
-Hey! I'm a recent graduate with a Masters in Business Analytics at UC Irvine as a part of the class of 2024. Through this program and my professional experiences, I have enhanced my analytical capabilities and improved my storytelling skills, converting my data analysis into actionable insights. I'm looking forward to applying my expertise to tackle the exciting, complex challenges within the data/consulting industry. Below is a brief background of me!
+Hey! I'm Devin, a recent graduate with a Master of Science in Business Analytics from UC Irvine, class of 2024. I specialize in turning complex data into clear, impactful insights. My journey in data analytics has been fueled by a passion for innovative problem-solving and storytelling. I’m excited to bring my skills to the business/data industry, where I can help solve complex challenges and drive results. Here’s a bit more about me!
 
 ## 📚 Education
 - **Master of Science in Business Analytics**, University of California, Irvine - Paul Merage School of Business (2023-2024)
@@ -8,32 +8,23 @@ Hey! I'm a recent graduate with a Masters in Business Analytics at UC Irvine as 
 
 ## 💼 Experience
 **Trace3**
-_Student Data Analyst (Jan 2024 - June 2024)_
-- Conducted data analysis on a $160 million subset of Trace3's extensive client database to identify and predict factors leading to payment defaults
-- Developed an expected value framework and interface to deliver real-time insights on expected revenue and potential losses for each client
+_Data Analyst Intern (Jan 2024 - June 2024)_
+- Collaborated with the FP&A department to analyze internal client data and external financial data, identifying factors that influence clients making late payments
+- Developed machine learning models with 85% accuracy for predicting the chance of overdue payments, enabling strategic decision-making
+- Built and presented a dynamic Power BI dashboard, conveying key insights about overdue payment risks to non-technical stakeholders
 
 **Merage Analytics Club**
 _President (Sept 2023 - June 2024)_
-- Networked with professionals and UCI alumni to secure guest speakers for events such as Introduction to GitHub and a 2-day hackathon
-- Spearheaded new initiatives by focusing on hands-on workshops and implementing social events, while collaborating with UCI program advisors to improve communication and keep members informed
+- Launched new initiatives such as hands-on workshops and a LinkedIn page, boosting member satisfaction by 30%
+- Worked with UCI senior leadership to enhance communication and member engagement through data-driven feedback systems
 
 ## ⌨️ Projects
-**X-Ray Detection**
-- Developed classification model using Gradient Descent and TensorFlow to differentiate between X-ray and non-X-ray images, implementing L2 regularization and dropout to enhance the model's generalization capabilities
-- Generated data visualizations, including accuracy plots, to communicate model performance and insights
-
-**Predicting Adoption Success**
-- Determined factors that contribute to adoption success and assist animal shelters in improving adoption rates and reducing euthanasia rates (Around 530,000 cats are euthanized each year ~ ASPCA)
-
-**Recipe Recommendation System**
-- Created a recipe recommendation system using Natural Language Processing such as Word2Vec and TF-IDF and tested the accuracy of the recommendation
-
-**Million Song Dataset**
-- Identified factors that lead to a song's popularity and discovered changes in song characteristics over time
+To keep things simple, I’ve compiled detailed descriptions of all my projects in one place, showcasing my skills in ETL processes, exploratory data analysis, data modeling, visualization, and more. Visit my project portfolio below:
+### ➡️ [Explore my projects here](https://github.com/DevinXTian/Portfolio-Overview)
 
 ## 🎉 More About Me
-- Technical Skills: Excel, Python, R, SQL, Tableau, Power BI, Jira, SPSS, MongoDB, Cassandra
-- Hobbies: Playing basketball, crocheting, trying to become Yelp Elite
+- Technical Skills: Excel, Python, R, SQL, Tableau, Power BI, Jira, Agile
+- Hobbies: Playing basketball, crocheting, learning new languages
 <!--
 **DevinXTian/DevinXTian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
