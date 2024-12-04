@@ -7,19 +7,19 @@ Hey! I'm Devin, a recent graduate with a Master of Science in Business Analytics
 - **Bachelor of Arts in Business Administration, Minor in Pyschological Sciences**, University of California, Irvine (2018-2022)
 
 ## 💼 Experience
-**Trace3**
+**Trace3** <br>
 _Student Data Analyst (Jan 2024 - June 2024)_
 - Performed advanced data analysis using Excel, Python, and Power BI, supporting Trace3 in its mission to reducing the likelihood of clients missing payments
 
-**Merage Analytics Club**
+**Merage Analytics Club** <br>
 _President (Sept 2023 - June 2024)_
 - Worked with UCI's senior leadership for the Master's program to enhance communication and member engagement through data-driven feedback systems, boosting member satisfaction by 30%
 
-**UCI Administrative Intern Program**
+**UCI Administrative Intern Program** <br>
 _Summer Bridge and Second-Year Transitional Experience Program (STEP) Intern (Aug 2021 - June 2022)_
 - Analyzed participant data from events and summarized it into quarterly reports, providing qualitative and quantitative feedback about event improvements
 
-**Marketing Association at UCI**
+**Marketing Association at UCI** <br>
 _Finance/Analytics Director (Apr 2020 - June 2021)_
 - Tracked social media metrics on Instagram and Facebook to optimize the club’s social media posting schedule
 - Created quarterly club budgets and presented up-to-date reports on the club funds during board meetings
