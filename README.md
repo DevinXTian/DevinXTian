@@ -8,22 +8,35 @@ Hey! I'm Devin, a recent graduate with a Master of Science in Business Analytics
 
 ## 💼 Experience
 **Trace3**
-_Data Analyst Intern (Jan 2024 - June 2024)_
-- Collaborated with the FP&A department to analyze internal client data and external financial data, identifying factors that influence clients making late payments
-- Developed machine learning models with 85% accuracy for predicting the chance of overdue payments, enabling strategic decision-making
-- Built and presented a dynamic Power BI dashboard, conveying key insights about overdue payment risks to non-technical stakeholders
+_Student Data Analyst (Jan 2024 - June 2024)_
+- Performed advanced data analysis using Excel, Python, and Power BI, supporting Trace3 in its mission to reducing the likelihood of clients missing payments
 
 **Merage Analytics Club**
 _President (Sept 2023 - June 2024)_
-- Launched new initiatives such as hands-on workshops and a LinkedIn page, boosting member satisfaction by 30%
-- Worked with UCI senior leadership to enhance communication and member engagement through data-driven feedback systems
+- Worked with UCI's senior leadership for the Master's program to enhance communication and member engagement through data-driven feedback systems, boosting member satisfaction by 30%
 
 ## ⌨️ Projects
-To keep things simple, I’ve compiled detailed descriptions of all my projects in one place, showcasing my skills in ETL processes, exploratory data analysis, data modeling, visualization, and more. Visit my project portfolio below:
+To keep things simple, I’ve compiled detailed descriptions of all my projects in one place, showcasing my skills in ETL processes, exploratory data analysis, data modeling, visualization, and more. I will provide a brief overview of my projects below as well for a quick overview. Visit my detailed project portfolio below:
 ### ➡️ [Explore my projects here](https://github.com/DevinXTian/Portfolio-Overview)
 
+### Project Overview
+- Coffee Sales Analysis (08/2024): Cleaned and analyzed sales data using functions such as XLOOKUP and INDEX Match as well as pivot tables to identify key trends, leading to a potential 15% increase in revenue
+
+- X-Ray Detection (Spring 2024): Developed a TensorFlow-based neural network for classifying if an image is an X-ray or not with 98% accuracy to allow for cost and time savings for hospitals
+
+- Harry Potter Social Network Analysis (Winter 2024): Conducted network analysis using character interaction data in Python with NetworkX for the Harry Potter series
+
+- Predicting Adoption Success in Animal Shelters (Winter 2024): Utilized Python and R to analyze and model data, aiming to improve adoption rates in shelters
+
+- Recipe Recommendation Engine (Winter 2024): Created a recommendation system using NLP techniques such as Word2Vec and TF-IDF to enhance user experience by providing tailored suggestions based on text analysis
+
+- Million Song Dataset Analysis (Fall 2024): Analyzed song features and performed regression analysis to identify trends that contribute to a song’s popularity over time
+
+- COVID-19 Analysis (01/2024): Analyzed COVID-19 data to identify key trends in infection rates and recovery patterns using SQL and Tableau
+
 ## 🎉 More About Me
-- Technical Skills: Excel, Python, R, SQL, Tableau, Power BI, Jira, Agile
+- Technical Skills: Python, R, SQL, Tableau, Power BI, dbt, BigQuery, Snowflake, Jupyter Notebook, Microsoft Office Suite (Excel, PowerPoint, Word, Access)
+- Libraries & Frameworks: ggplot2, Beautiful Soup, Application Programming Interfaces (API), K-Nearest Neighbors (KNN), Scikit-learn, Matplotlib, NumPy, Forecasting, NLP, Seaborn, Pandas
 - Hobbies: Playing basketball, crocheting, learning new languages
 <!--
 **DevinXTian/DevinXTian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
