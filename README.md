@@ -15,8 +15,17 @@ _Student Data Analyst (Jan 2024 - June 2024)_
 _President (Sept 2023 - June 2024)_
 - Worked with UCI's senior leadership for the Master's program to enhance communication and member engagement through data-driven feedback systems, boosting member satisfaction by 30%
 
+**UCI Administrative Intern Program**
+_Summer Bridge and Second-Year Transitional Experience Program (STEP) Intern (Aug 2021 - June 2022)_
+- Analyzed participant data from events and summarized it into quarterly reports, providing qualitative and quantitative feedback about event improvements
+
+**Marketing Association at UCI**
+_Finance/Analytics Director (Apr 2020 - June 2021)_
+- Tracked social media metrics on Instagram and Facebook to optimize the club’s social media posting schedule
+- Created quarterly club budgets and presented up-to-date reports on the club funds during board meetings
+  
 ## ⌨️ Projects
-To keep things simple, I’ve compiled detailed descriptions of all my projects in one place, showcasing my skills in ETL processes, exploratory data analysis, data modeling, visualization, and more. I will provide a brief overview of my projects below as well for a quick overview. Visit my detailed project portfolio below:
+To keep things simple, I’ve compiled detailed descriptions of all my projects in one place, showcasing my skills in ETL processes, exploratory data analysis, data modeling, visualization, and more. I will provide a brief description of my projects below as well for a quick overview. Visit my detailed project portfolio below:
 ### ➡️ [Explore my projects here](https://github.com/DevinXTian/Portfolio-Overview)
 
 ### Project Overview
@@ -38,6 +47,15 @@ To keep things simple, I’ve compiled detailed descriptions of all my projects 
 - Technical Skills: Python, R, SQL, Tableau, Power BI, dbt, BigQuery, Snowflake, Jupyter Notebook, Microsoft Office Suite (Excel, PowerPoint, Word, Access)
 - Libraries & Frameworks: ggplot2, Beautiful Soup, Application Programming Interfaces (API), K-Nearest Neighbors (KNN), Scikit-learn, Matplotlib, NumPy, Forecasting, NLP, Seaborn, Pandas
 - Hobbies: Playing basketball, crocheting, learning new languages
+
+## 🌐 Links
+- Email: devinxiangtian6@gmail.com
+- LinkedIn: [Devin Tian](https://www.linkedin.com/in/devintian/)
+
+## 📣 Open to Opportunities
+I'm currently open to opportunities where I can contribute to data-driven projects and initiatives. Whether it's through data analysis or strategic planning, I'm eager to apply my skills to help organizations achieve their goals.
+
+Thank you for visiting my profile! Feel free to reach out if you have any opportunities you think I might be interested in.
 <!--
 **DevinXTian/DevinXTian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
