@@ -8,21 +8,16 @@ Hey! I'm Devin, a recent graduate with a Master of Science in Business Analytics
 
 ## 💼 Experience
 **Trace3** <br>
-_Student Data Analyst (Jan 2024 - June 2024)_
-- Performed advanced data analysis using Excel, Python, and Power BI, supporting Trace3 in its mission to reducing the likelihood of clients missing payments
-
-**Merage Analytics Club** <br>
-_President (Sept 2023 - June 2024)_
-- Worked with UCI's senior leadership for the Master's program to enhance communication and member engagement through data-driven feedback systems, boosting member satisfaction by 30%
+_Data Analyst Intern (Jan 2024 - June 2024)_
+- Performed advanced data analysis using Python and Power BI, supporting Trace3 in its mission to reducing the likelihood of clients missing payments
 
 **UCI Administrative Intern Program** <br>
-_Summer Bridge and Second-Year Transitional Experience Program (STEP) Intern (Aug 2021 - June 2022)_
+_Data Analyst Intern Intern (Aug 2021 - June 2022)_
 - Analyzed participant data from events and summarized it into quarterly reports, providing qualitative and quantitative feedback about event improvements
 
 **Marketing Association at UCI** <br>
-_Finance/Analytics Director (Apr 2020 - June 2021)_
-- Tracked social media metrics on Instagram and Facebook to optimize the club’s social media posting schedule
-- Created quarterly club budgets and presented up-to-date reports on the club funds during board meetings
+_Student Analytics Director (Apr 2020 - June 2021)_
+- Optimized social media strategies using Instagram and Facebook metrics and utilized Google Analytics to analyze website traffic and user behavior, driving engagement and awareness
   
 ## ⌨️ Projects
 To keep things simple, I’ve compiled detailed descriptions of all my projects in one place, showcasing my skills in ETL processes, exploratory data analysis, data modeling, visualization, and more. I will provide a brief description of my projects below as well for a quick overview. Visit my detailed project portfolio below:
@@ -44,7 +39,7 @@ To keep things simple, I’ve compiled detailed descriptions of all my projects 
 - COVID-19 Analysis (01/2024): Analyzed COVID-19 data to identify key trends in infection rates and recovery patterns using SQL and Tableau
 
 ## 🎉 More About Me
-- Technical Skills: Python, R, SQL, Tableau, Power BI, dbt, BigQuery, Snowflake, Jupyter Notebook, Microsoft Office Suite (Excel, PowerPoint, Word, Access)
+- Technical Skills: Python, R, SQL, Spark, Tableau, Power BI, dbt, BigQuery, Snowflake, Jupyter Notebook, Microsoft Office Suite (Excel, PowerPoint, Word, Access)
 - Libraries & Frameworks: ggplot2, Beautiful Soup, Application Programming Interfaces (API), K-Nearest Neighbors (KNN), Scikit-learn, Matplotlib, NumPy, Forecasting, NLP, Seaborn, Pandas
 - Hobbies: Playing basketball, crocheting, learning new languages
 
